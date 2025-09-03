@@ -1,5 +1,9 @@
 pandas
 numpy
 seaborn
+<<<<<<< HEAD
 scikit-learn
 #-e .
+=======
+-e .
+>>>>>>> 886aad3f362f1f1fc1e1b0ca76260c9aae18447c
